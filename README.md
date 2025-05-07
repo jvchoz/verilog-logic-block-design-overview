@@ -68,15 +68,10 @@ Waveforms demonstrate correct logical behavior across all relevant input combina
 ## Author
 
 James Ong  
----
-
-## Academic Honesty Notice
-
-This project was created for coursework in EECS 31L at UC Irvine.  
-It is shared publicly for educational and portfolio purposes only.  
-**Do not reuse or submit this code for academic credit.**
 
 ---
+
+ Full implementation available in a private repository. Request access via GitHub or email.
 
 ## License
 
