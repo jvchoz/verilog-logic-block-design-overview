@@ -68,10 +68,9 @@ Waveforms demonstrate correct logical behavior across all relevant input combina
 ## Author
 
 James Ong  
+ Full implementation available in a private repository. Request access via GitHub or email.
 
 ---
-
- Full implementation available in a private repository. Request access via GitHub or email.
 
 ## License
 
